@@ -5,7 +5,12 @@ An **AI-powered Streamlit application** that helps teams save time by automatica
 This project leverages **state-of-the-art NLP models** from HuggingFace and spaCy to provide production-ready functionality.
 
 ---
+# 📝 AI Meeting Summarizer
 
+An AI-powered Streamlit app that **summarizes meeting transcripts**, extracts **action items**, and provides a **dashboard view** of the conversation.  
+
+🔗 **Live Demo:** [Click Here](https://anushasrivastava273-ai-meeting-summarizer-app-lindtn.streamlit.app/)
+---
 ## ✨ Features
 - 📄 **Transcript Upload**: Upload raw meeting transcripts in `.txt` format  
 - 🤖 **AI Summarization**: Generates concise summaries using **BART-Large-CNN**  
