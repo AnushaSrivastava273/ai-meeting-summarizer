@@ -1,0 +1,6 @@
+Alice: Hi team, today we need to finalize the project timeline.  
+Bob: Yes, I will prepare the draft report by Monday.  
+Charlie: We should schedule a client meeting next week.  
+Alice: The design team must share their updates by Friday.  
+Bob: We need to test the prototype before the demo.  
+Charlie: Sounds good, I shall send out the meeting invites.  
